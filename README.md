@@ -1,7 +1,9 @@
 # COVID-19 Monitoring and PPE Demand/Prediction
 
 # 1. Introduction
-A Transfer Learning (TL) framework for jointly monitoring/predicting the impact of the novel Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2), which is responsible for the Corona Virus Disease 2019 (COVID-19), and the demand/consumption of Personal Protective Equipment (PPE) in Community Health Centres for a given populace.
+A Transfer Learning (TL) framework for jointly monitoring and/or predicting the following, viz:
+(a) the impact of the novel Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) which is responsible for the Corona Virus Disease 2019 (COVID-19); and
+(b) the demand/consumption of Personal Protective Equipment (PPE) in Community Health Centres for a given populace.
 
 # 2. Code Installation and Usage
 The implementation for our proposed Transfer Learning (TL) framework, **COVID-19-Monitor**, is available for direct installation (from GitHub) via any of the following options, viz:
